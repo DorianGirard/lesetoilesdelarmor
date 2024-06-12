@@ -1,0 +1,33 @@
+<footer class="site-footer">
+  {{ with site.GetPage "terms.md" }}
+  <p class="powered-by">
+    {{ printf "<a href=\"%s\">%s </a>" .RelPermalink .Title | safeHTML }}
+  </p>
+  {{ end }}
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; <a href="https://github.com/pyrrhamide/mission-website" target="_blank" rel="noopener"><i class="fas fa-code-branch"></i></a> {{ end }}
+  </p>
+
+  <p class="powered-by">
+    {{ if eq "en" .Language.Lang }}
+      Made with the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and the
+      <a href="https://academic-demo.netlify.app/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> &middot; Deployed using <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.
+    {{ else }}
+      Site réalisé avec le package <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> et le thème
+      <a href="https://academic-demo.netlify.app/" target="_blank" rel="noopener">Academic</a> pour
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> &middot; Déployé avec <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.
+    {{ end }}
+
+    {{ if ne .Type "docs" }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>

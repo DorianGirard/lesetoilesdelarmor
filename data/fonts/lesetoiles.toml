@@ -1,0 +1,13 @@
+# https://wowchemy.com/docs/getting-started/customization/#customize-style-css
+
+# Font style metadata
+name = "lesetoiles"
+
+# Optional Google font URL
+google_fonts = "family=Work+Sans"
+
+# Font families
+heading_font = "Zilla Slab"
+body_font = "Karla"
+nav_font = "Zilla Slab"
+mono_font = "DM Mono"

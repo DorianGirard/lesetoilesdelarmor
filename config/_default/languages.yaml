@@ -1,0 +1,35 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+#en:
+  #languageCode: en-gb
+  #languageName: English
+  #weight: 1
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+fr:
+  languageCode: fr
+  languageName: Français
+  weight: 1
+  contentDir: content/fr
+  title: Les Étoiles de l'Armor
+  params:
+    description: Blog de l'équipage Les Étoiles de l'Armor pour le 4L Trophy 2025
+  menu:
+    main:
+      - name: Qui sommes-nous ?
+        url: 'qui-sommes-nous/'
+        weight: 1
+      - name: Blog
+        url: 'post/'
+        weight: 20
+      - name: Projets
+        url: 'projets/'
+        weight: 30
+      - name: CV
+        url: 'cv/'
+        weight: 40

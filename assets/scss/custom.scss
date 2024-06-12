@@ -1,0 +1,307 @@
+@import 'navbar-custom';
+@import 'callouts-custom';
+@import 'footer-custom';
+@import 'cards-custom';
+@import 'code-custom';
+@import 'fonts-custom';
+
+/* --- WHOLE DOCUMENT ---: */
+
+/* marge entre nav bar et texte */
+body {
+  margin-top: 70px !important;
+  color: #172A3A;
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    margin-top: 50px !important;
+    font-size: 16px;
+  }
+}
+// animations
+.universal-wrapper{
+  animation: fade-in .5s forwards;
+}
+
+#about,
+#demo,
+#projects,
+#experience,
+#education {
+  animation: fade-in .5s forwards;
+}
+
+
+
+/*
+.navbar {
+  min-height: 100px !important;
+}
+*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+  letter-spacing: 0.04em;
+  color: #172A3A;
+}
+
+/* links */
+
+a:active,
+a:focus,
+a:hover {
+  color: #cd5c16;
+  text-decoration: none; /*remove underline when hover*/
+}
+
+/* post summary links to article. redundant with title on top. fixing that!
+peut aussi modifier ça dans li_compact.html en supprimant la balise <a> */
+a.summary-link {
+  pointer-events: none;
+  cursor: default;
+}
+
+.article-metadata {
+  margin-bottom: 0px;
+}
+/* --- BOUTONS --- */
+.btn {
+  font-family: Karla;
+  text-transform: lowercase;
+  font-weight: bold;
+  font-size: .9rem;
+  box-shadow: 3px 3px 0 0 #cd5c16;
+  /*border-radius: 0px;*/
+}
+
+.btn-toolbar {
+  justify-content: center;
+}
+
+/* --- SECTION HEADERS --- */
+
+.universal-wrapper.pt-3 h1 {
+  text-align: center;
+  padding-bottom: 30px;
+  text-transform: capitalize;
+}
+
+.universal-wrapper.pt-3 p.page-subtitle {
+  text-align: center;
+  font-family: Zilla Slab;
+  font-style: italic;
+  padding-bottom: 50px;
+}
+
+.article-title,
+.article h1 {
+  text-transform: lowercase;
+}
+
+.content-widget-hr ul {
+  text-transform: lowercase;
+}
+
+/* about-contact helpers */
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #004346;
+  background-image: none;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.home-section.wg-experience .card-body {
+	padding: .9rem;
+}
+
+.home-section.wg-experience .card .card-text{
+  padding: 0;
+}
+
+/* images more like cards; iframes more seamless */
+
+img {
+	margin-bottom: 1.5rem;
+	overflow: hidden;
+	background: #fff;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+iframe {
+	border: 0;
+}
+
+/* pagination buttons */
+
+.page-link {
+	color: #004346;
+	background-color: #F0F7FA;
+	border: 1px solid #004346;
+  border-radius: 0px; /*undo rounded corners*/
+
+}
+
+.page-link:hover {
+	color: #fff;
+	background-color: #004346;
+	border-color: #004346;
+}
+
+.page-item:first-child .page-link {
+	border-top-left-radius: 0rem;
+	border-bottom-left-radius: 0rem;
+}
+
+.page-item:last-child .page-link {
+	border-top-right-radius: 0rem;
+	border-bottom-right-radius: 0rem;
+}
+
+/* https://github.com/gcushen/hugo-academic/issues/147 */
+.container {
+  max-width: 80%;
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    max-width: 90%;
+  }
+}
+
+.article {
+  animation: fade-in .5s forwards;
+}
+
+.section-heading p {
+	color: #004346;
+}
+
+
+html {
+	scroll-behavior: smooth;
+}
+
+html, body {
+  scroll-padding-top: 100px;
+}
+
+
+/* -------- BLOG POSTS --------- */
+/* Headers within blogs */
+
+.article-style h1:not(:first-child),
+.article-style h2:not(:first-child),
+.article-style h3:not(:first-child) {
+  padding-top: 1em;
+  padding-bottom: 0em;
+}
+
+/*---fix code scrolling-- */
+pre {
+  white-space: pre-wrap;
+}
+
+/*---ANCHOR HEADINGS-- */
+
+a > svg.anchor-symbol {
+  color: transparent;
+  margin-bottom: .5rem;
+  margin-left: .5rem;
+  fill: #1a162d99;
+}
+
+.dark a > svg.anchor-symbol {
+  color: transparent;
+  margin-bottom: .5rem;
+  margin-left: .5rem;
+  fill: #c0c0c0;
+}
+
+a > svg.anchor-symbol:hover {
+  fill: #eb8444;
+  transition: fill 0.6s ease;
+}
+
+/*--- TOC ---*/
+#TableOfContents li a,
+.toc-top li a {
+	// padding: .125rem 1.5rem;
+	font-size: .8rem;
+  text-transform: inherit;
+  text-align: left;
+	color: #1a162d99;
+}
+
+#TableOfContents {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  margin-top: 0rem; /* ecart image featured TOC */
+  margin-bottom: 2rem; /* ecart TOC premier para */
+}
+
+// #toc-kf {
+//   background-color: whitesmoke;
+//   border-left: 1px solid orangered;
+// }
+
+/* pb titre "expérience pro" qui est coupé au mauvais endroit - dépend police*/
+/*
+#experience .mb-0 {
+  hyphens: auto;
+}
+*/
+
+.post-nav {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  // grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  // grid-row-gap: 0px;
+  font-weight: bolder;
+}
+
+.post-nav #next-nav {
+  text-align: right;
+}
+
+
+.media-body .section-subheading.article-title.mb-0.mt-0 a {
+  font-size: 1.4rem;
+}
+
+.media-body a.summary-link .article-style {
+  font-size: .9rem;
+}
+
+.media.stream-item .mr-5.pt-3 img {
+  max-width: 300px;
+  transition: opacity 0.3s ease-in-out;
+  -webkit-transition: opacity 0.3s ease-in-out
+}
+
+.media.stream-item .mr-5.pt-3 img:hover {
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 900px) {
+  .media.stream-item .mr-5.pt-3 img {
+    max-width: 100px;
+  }
+
+  .universal-wrapper.pt-3 h1 {
+    padding-bottom: 5px;
+  }
+
+  .universal-wrapper.pt-3 p.page-subtitle {
+    padding-bottom: 10px;
+  }
+}
+
