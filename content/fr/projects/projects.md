@@ -7,7 +7,7 @@ headless: true
 weight: 65 # Order that this section appears on the page.
 
 title: Mes projets
-subtitle: ''
+subtitle: 'blablabla'
 
 content:
   # Page type to display. E.g. project.

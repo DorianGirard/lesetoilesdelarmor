@@ -27,9 +27,9 @@ fr:
       - name: Blog
         url: 'post/'
         weight: 20
-      - name: Projets
-        url: 'projets/'
+      - name: Le 4L Trophy
+        url: '4l-trophy/'
         weight: 30
-      - name: CV
-        url: 'cv/'
+      - name: Nos partenaires
+        url: 'partenaires/'
         weight: 40
