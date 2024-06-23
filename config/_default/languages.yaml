@@ -33,3 +33,6 @@ fr:
       - name: Nos partenaires
         url: 'partenaires/'
         weight: 40
+      - name: Nous soutenir
+        url: 'soutien/'
+        weight: 50  

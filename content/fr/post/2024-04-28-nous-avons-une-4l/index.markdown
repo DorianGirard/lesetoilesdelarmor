@@ -3,17 +3,6 @@ title: Ça y est, nous avons une 4L !
 author: DG
 date: '2024-04-28'
 slug: on-a-une-4l
-categories: [R, tutoriel]
-tags: [blogdown, créer le site]
-links:
-- icon: door-open
-  icon_pack: fas
-  name: projet
-  url: fr/my-projects/creating-beautiful-content/
-- icon: link
-  icon_pack: fas
-  name: english
-  url: blog/on-a-une-4l/
 summary: "Retenez bien ce numéro, le #332 nous suivra tout au long de cette aventure rocambolesque !"
 featured: no
 image:
@@ -25,8 +14,6 @@ image:
 <!--
 {{< table_of_contents >}}
 -->
-
-{{%toc%}}
 
 🚨 Information de dernière minute !
 
