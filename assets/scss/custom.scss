@@ -68,7 +68,7 @@ a.summary-link {
 /* --- BOUTONS --- */
 .btn {
   font-family: Karla;
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
   font-weight: bold;
   font-size: .9rem;
   box-shadow: 3px 3px 0 0 #cd5c16;
@@ -96,11 +96,11 @@ a.summary-link {
 
 .article-title,
 .article h1 {
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
 }
 
 .content-widget-hr ul {
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
 }
 
 /* about-contact helpers */
