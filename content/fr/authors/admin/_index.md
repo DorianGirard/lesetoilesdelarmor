@@ -31,5 +31,4 @@ superuser: true
 title: Les Étoiles de l'Armor
 ---
 
-
 {{< icon name="download" pack="fas" >}} Téléchargez notre {{< staticref "media/dossier_sponsoring_lesetoilesdelarmor.pdf" "newtab" >}}dossier de sponsoring{{< /staticref >}}.

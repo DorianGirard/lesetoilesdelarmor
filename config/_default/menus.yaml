@@ -5,7 +5,7 @@
 
 main:
   - name: Qui sommes-nous ?
-    url: 'about/'
+    url: 'qui-sommes-nous/'
     weight: 10
   - name: Blog
     url: 'post/'

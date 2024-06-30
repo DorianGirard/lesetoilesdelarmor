@@ -16,7 +16,7 @@ Un soutien matériel ou financier apporté sans contrepartie directe de notre pa
 ## Le Don
 Un don pour une association à titre particulier qui vous offre le droit à une réduction d'impôt égale à 66% du total des versements dans la limite de 20% du revenu imposable de votre foyer.
 
-Nous avons mis en place une [cagotte](https://lydia-app.com/pots?id=27778-4l-trophy-2025-332) afin de faciliter la récolte des dons particuliers.
+Nous avons mis en place une [cagnotte](https://lydia-app.com/pots?id=27778-4l-trophy-2025-332) afin de faciliter la récolte des dons particuliers.
 
 ![](particuliers.png)
 

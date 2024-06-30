@@ -11,6 +11,6 @@ L’objectif est simple : relier Biarritz à Marrakech en douze jours, avec pour
 
 ## L'aspect solidaire
 
-Depuis 2006, le 4L Trophy noue un partenariat associatif avec l'association Enfants du désert, qui oeuvre en faveur de l’accès à l’éducation pour les enfants du désert marocain. Ce principal associé du raid est le principal bénéficiaire du soutien matériel et financier apporté chaque édition par les équipages.
+Depuis 2006, le 4L Trophy noue un partenariat associatif avec l'association Enfants du désert, qui oeuvre en faveur de l’accès à l’éducation pour les enfants du désert marocain. Ce principal associé du raid est le bénéficiaire du soutien matériel et financier apporté chaque édition par les équipages.
 
 Le 4L Trophy est aussi associé depuis 2011 avec la Croix-Rouge française. Elle bénéficie chaque année de l'acheminement de 10 kg de denrées alimentaires minimum de la part de chaque équipage, au village départ.

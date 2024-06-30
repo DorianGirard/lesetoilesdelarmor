@@ -6,7 +6,7 @@ slug: soyez-vus-sur-notre-4L
 summary: "Partagez un bout de notre aventure en profitant de la large couverture médiatique dont bénéficie l'événement !"
 featured: no
 image:
-  caption: '[Photo de Danielle MacInnes sur Unsplash](https://unsplash.com/photos/IuLgi9PWETU)'
+  caption: ''
   focal_point: ''
   preview_only: no
 ---
