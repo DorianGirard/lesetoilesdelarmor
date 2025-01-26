@@ -19,13 +19,44 @@ La [Croix-Rouge française](https://www.croix-rouge.fr) est une association reco
 
 70.521 bénévoles font vivre l’association pour lutter contre les différentes formes de précarités, à travers des projets sur le territoire français et à l’étranger.
 
-## Nos partenaires
+## Les entreprises qui nous font confiance
 
-### Les entreprises qui nous font confiances
-Plus d'informations prochainement...
+### Clin d'Œil à Chateaubourg
 
-### Nos généreux donateurs
+![](logo-clindoeil.pdf)
 
-Un grand merci à tous nos donateurs particuliers pour leur don !
+[Clin d'Œil](https://www.clindoeil-optique.fr) est un opticien indépendant présent à Châteaubourg depuis plus de 15 ans. Son équipe qui s'emploie chaque jour à donner le sourire à ses clients en leur proposant des lunettes de collections et/ou de créateurs selon leurs goûts et leur budget.
 
-Anne, Benoît, Jean-Louis, Lucie, Matthieu, Philippe, Yannick. 
+Clin d'Œil et son équipe se démarquent par des conseils personnalisés, un large choix de produits (montures, lentilles de contact, solaires) ainsi que des partenariats avec des fournisseurs reconnus.
+
+Une expérience complète déjà testée et approuvée par notre pilote Pierre-Ange dont les yeux bénéficient du meilleur matériel adapté à sa vue pour affronter le désert marocain !
+
+
+### Intectra
+
+![](intectra.png)
+
+[Intectra](https://intectra.fr) est un chaudronnier basé à Servon-sur-Vilaine. L’entreprise intervient sur l’ensemble du territoire français mais aussi à l’international pour des projets de :
+• Métallerie et serrurerie
+• Chaudronnerie et tôlerie
+• Métallerie à façon
+• Projets industriels
+• Agencement et création
+
+Intectra travaille sur des projets de domaines variés comme l’industrie automobile, aéronautique ou agroalimentaire, ainsi que l’aménagement et le mobilier contemporain.
+
+L’équipe de Stéphane Vennin s’est occupée de la réalisation d’une plaque de protection renforcée pour le dessous de notre voiture, équipement obligatoire pour le raid du 4L Trophy. Un grand merci à eux !
+
+### Lycée Jean-Paul II à Saint-Grégoire
+
+![](JP2.png)
+
+Le [lycée Jean-Paul II](https://www.lycee-jeanpaul2.fr) de Saint-Grégoire fait partie du @groupesaintjean, qui rassemble quatre autres établissements, pour une couverture globale de la 6e au bac+5 : le collègue Immaculée (Saint-Grégoire), par lequel nous sommes aussi passés, le lycée de La Salle (Rennes), Pôle Sup et CFA de La Salle (Rennes).
+
+Suite à l'intervention de Pierre-Ange auprès des élèves fin décembre, ces derniers ont vraiment joué le jeu et nous ont permis de récolter tout le matériel scolaire nécessaire pour la redistribution à Enfants du désert. Un grand merci à eux ainsi qu'à Jonas Lauer, responsable éducatif du lycée, pour la coordination de cette intervention !
+
+## Nos généreux donateurs particuliers
+
+Un grand merci à toutes et tous pour votre contribution !
+
+Alice E., Anne G., Anne, Benoît G., Florian R., Jean-Louis, Laëtitia D., Lucie, Matthieu D., Quentin L., Philippe, Yannick G., Yannick R. 

@@ -1,11 +1,13 @@
 ---
-title: Qui sommes nous ?
-subtitle:
+title: Qui sommes-nous ?
+subtitle: Découvrez les deux pilotes de cette aventure !
 ---
+
+{{< icon name="download" pack="fas" >}} Téléchargez notre {{< staticref "media/dossier_sponsoring_lesetoilesdelarmor.pdf" "newtab" >}}dossier de sponsoring{{< /staticref >}}.
 
 ## Pierre-Ange Tirel
 
-**26 ans** · **Doctorant**
+26 ans · Doctorant
 
 ![](photo_PA.jpg)
 
@@ -16,7 +18,7 @@ Plus sérieusement, c’est l’occasion pour moi de découvrir le monde de la m
 Le côté gestion est aussi intéressant, les sponsors, la cagnotte, l’organisation, la communication, un condensé de challenges !
 
 ## Dorian Girard
-25 ans · Journaliste
+26 ans · Journaliste
 
 ![](photo_dorian.jpg)
 

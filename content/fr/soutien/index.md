@@ -10,11 +10,8 @@ Le principe est simple : vous donnez, nous donnons. Envie d’attirer de la clie
 
 ![](emplacements.png)
 
-## Le Mécénat
-Un soutien matériel ou financier apporté sans contrepartie directe de notre part. Vous profitez en revanche d’une réduction d’impôt de 60% du montant de votre don.
-
 ## Le Don
-Un don pour une association à titre particulier qui vous offre le droit à une réduction d'impôt égale à 66% du total des versements dans la limite de 20% du revenu imposable de votre foyer.
+Un soutien matériel ou financier réalisé à titre particulier qui vous donne le droit à des contreparties que nous  avons choisies pour vous (photo, souvenir du maroc, nom inscrit sur la 4L, etc).
 
 Nous avons mis en place une [cagnotte](https://lydia-app.com/pots?id=27778-4l-trophy-2025-332) afin de faciliter la récolte des dons particuliers.
 
