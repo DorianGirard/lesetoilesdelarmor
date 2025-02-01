@@ -23,7 +23,7 @@ La [Croix-Rouge française](https://www.croix-rouge.fr) est une association reco
 
 ### Clin d'Œil à Chateaubourg
 
-![](logo-clindoeil.pdf)
+![](logo-clindoeil.png)
 
 [Clin d'Œil](https://www.clindoeil-optique.fr) est un opticien indépendant présent à Châteaubourg depuis plus de 15 ans. Son équipe qui s'emploie chaque jour à donner le sourire à ses clients en leur proposant des lunettes de collections et/ou de créateurs selon leurs goûts et leur budget.
 
@@ -36,11 +36,11 @@ Une expérience complète déjà testée et approuvée par notre pilote Pierre-A
 
 ![](intectra.png)
 
-[Intectra](https://intectra.fr) est un chaudronnier basé à Servon-sur-Vilaine. L’entreprise intervient sur l’ensemble du territoire français mais aussi à l’international pour des projets de :
-• Métallerie et serrurerie
-• Chaudronnerie et tôlerie
-• Métallerie à façon
-• Projets industriels
+[Intectra](https://intectra.fr) est un chaudronnier basé à Servon-sur-Vilaine. L’entreprise intervient sur l’ensemble du territoire français mais aussi à l’international pour des projets de :\
+• Métallerie et serrurerie\
+• Chaudronnerie et tôlerie\
+• Métallerie à façon\
+• Projets industriels\
 • Agencement et création
 
 Intectra travaille sur des projets de domaines variés comme l’industrie automobile, aéronautique ou agroalimentaire, ainsi que l’aménagement et le mobilier contemporain.
@@ -51,7 +51,7 @@ L’équipe de Stéphane Vennin s’est occupée de la réalisation d’une plaq
 
 ![](JP2.png)
 
-Le [lycée Jean-Paul II](https://www.lycee-jeanpaul2.fr) de Saint-Grégoire fait partie du @groupesaintjean, qui rassemble quatre autres établissements, pour une couverture globale de la 6e au bac+5 : le collègue Immaculée (Saint-Grégoire), par lequel nous sommes aussi passés, le lycée de La Salle (Rennes), Pôle Sup et CFA de La Salle (Rennes).
+Le [lycée Jean-Paul II](https://www.lycee-jeanpaul2.fr) de Saint-Grégoire fait partie du Groupe Saint-Jean, qui rassemble quatre autres établissements, pour une couverture globale de la 6e au bac+5 : le collègue Immaculée (Saint-Grégoire), par lequel nous sommes aussi passés, le lycée de La Salle (Rennes), Pôle Sup et CFA de La Salle (Rennes).
 
 Suite à l'intervention de Pierre-Ange auprès des élèves fin décembre, ces derniers ont vraiment joué le jeu et nous ont permis de récolter tout le matériel scolaire nécessaire pour la redistribution à Enfants du désert. Un grand merci à eux ainsi qu'à Jonas Lauer, responsable éducatif du lycée, pour la coordination de cette intervention !
 
@@ -59,4 +59,4 @@ Suite à l'intervention de Pierre-Ange auprès des élèves fin décembre, ces d
 
 Un grand merci à toutes et tous pour votre contribution !
 
-Alice E., Anne G., Anne, Benoît G., Florian R., Jean-Louis, Laëtitia D., Lucie, Matthieu D., Quentin L., Philippe, Yannick G., Yannick R. 
+Alice E., Amélie T., Anne G., Anne P., Benoît G., Charline C., Clément P., Donovan N., Florian R., Isabelle J., Julia D., Juliette B., Jean-Louis T., Laëtitia D., Louise J., Lou-Ann M., Lucie P., Maëlis S., Mathilde R., Matthieu D., Maxime C., Quentin L., Pauline D., Pauline R., Philippe D., Pierre L.G., Yannick G., Yannick R, Victor D.B. 
